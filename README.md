@@ -1,3 +1,3 @@
-# Privacy-Policy For Flanker
+# Privacy-Policy For Dranzer
 
 My bot collect message content intent for leaderboards and economy features and use message ids and message content for replying the people as my bot is chatbot and it requires message content intent for it.
