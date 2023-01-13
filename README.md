@@ -31,7 +31,7 @@
 
 #### You can reach us by the following things:
 - Join our [Support Server](https://discord.gg/SVP2Dar5Nx) on discord
-- Contact [~ Devil_xD](https://discord.gg/SVP2Dar5Nx) on discord [https://discord.gg/SVP2Dar5Nx](https://discord.gg/SVP2Dar5Nx)
+- Contact [Radon.ly](https://discord.gg/MHQSqf3cZk) on discord [https://discord.gg/MHQSqf3cZk](https://discord.gg/MHQSqf3cZk)
 
 ## 6. How can we delete our entire data?
 
