@@ -1,7 +1,7 @@
-# Privacy-Policy For Dranzer
+# Privacy-Policy For Thunder|™|🇮🇳
 
 ## **Dranzer Privacy Policy**
-### By using Dranzer you accept with its privacy policy.
+### By using Thunder|™|🇮🇳 you accept with its privacy policy.
 
 ## 1. What does it store?
 
