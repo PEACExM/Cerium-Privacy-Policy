@@ -1,7 +1,7 @@
-# Privacy-Policy For Thunder|™|🇮🇳
+# Privacy-Policy For Airtel
 
-## **Thunder|™|🇮🇳 Privacy Policy**
-### By using Thunder|™|🇮🇳 you accept with its privacy policy.
+## **Airtel**
+### By using Airtel you accept with its privacy policy.
 
 ## 1. What does it store?
 
